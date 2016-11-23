@@ -10,3 +10,4 @@ tags:
 * 研究阿里OpenAPI
 * Android插件编写
 * Nexus高效使用
+* Android SOA完善
